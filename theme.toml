@@ -1,8 +1,8 @@
 name = "UI Custom"
 license = "MIT"
-licenselink = "https://github.com/site-0003/ui-custom/blob/main/LICENSE"
+licenselink = "https://github.com/site-0001/ui-custom/blob/main/LICENSE"
 description = "WebSite User Interface"
-homepage = "https://cmf.pet"
+homepage = "https://kitsune.solar"
 tags = ["website", "responsive", "multilingual", "mobile"]
 features = ["posts", "shortcodes", "comments"]
 min_version = "0.82.0"
