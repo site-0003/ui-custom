@@ -17,5 +17,5 @@ git submodule update --recursive --remote --merge
 ## Uninstall
 
 ```
-git submodule deinit -f themes/ui-custom && git rm -r --cached themes/ui-custom && rm -rf .git/modules/themes/ui-custom
+git submodule deinit -f themes/ui-custom; git rm -r --cached themes/ui-custom; rm -rf .git/modules/themes/ui-custom; rm -rf themes/ui-custom
 ```
